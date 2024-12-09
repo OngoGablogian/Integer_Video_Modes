@@ -5,21 +5,21 @@
 
 ### <p align=center>Please read all information provided in the repository thoroughly.
 
-1. [**Basic Information**](https://github.com/atrac17/MiSTer_Integer_Modelines/tree/main#basic-information)
-2. [**Using Non-Standard Video Modes To Produce Hybrid Scaling**](https://github.com/atrac17/MiSTer_Integer_Modelines/tree/main#using-non-standard-video-modes-to-produce-hybrid-scaling)
-3. [**MiSTer Provided Scaling Methods**](https://github.com/atrac17/MiSTer_Integer_Modelines/tree/main#mister-provided-scaling-methods)
-4. [**MiSTer.ini Information Related To This Repository**](https://github.com/atrac17/MiSTer_Integer_Modelines/tree/main#misterini-information-related-to-this-repository)
-5. [**MiSTer.ini Recommended Settings**](https://github.com/atrac17/MiSTer_Integer_Modelines/tree/main#misterini-recommended-settings)
-6. [**OSSC DEXX-Pro Lite Add-On Provided Scaling Methods**](https://github.com/atrac17/MiSTer_Integer_Modelines/tree/main#ossc-dexx-pro-lite-add-on-provided-scaling-methods)
-7. [**OSSC DEXX-Pro Lite Add-On Custom_Scaling.txt Information**](https://github.com/atrac17/MiSTer_Integer_Modelines/tree/main#ossc-dexx-pro-lite-add-on-custom_scalingtxt-information)
-8. [**Integer Video Mode Calculation Examples**](https://github.com/atrac17/MiSTer_Integer_Modelines/tree/main#integer-video-mode-calculation-examples)
-9. [**Tools Utilized To Create Integer Video Modes**](https://github.com/atrac17/MiSTer_Integer_Modelines/tree/main#tools-utilized-to-create-integer-video-modes)
-10. [**Tools Utilized To Create New EDID Resolutions**](https://github.com/atrac17/MiSTer_Integer_Modelines/tree/main#tools-utilized-to-create-new-edid-resolutions)
-11. [**Console / Handheld Video Modes & Timings**](https://github.com/atrac17/MiSTer_Integer_Modelines/blob/main/console/README.md)
-12. [**Arcade Video Modes & Timings**](https://github.com/atrac17/MiSTer_Integer_Modelines/blob/main/arcade/README.md)
-13. [**Video Modes & Timings Templates**](https://github.com/atrac17/MiSTer_Integer_Modelines/tree/main/template)
-14. [**Repository License**](https://github.com/atrac17/MiSTer_Integer_Modelines/tree/main#license)
-15. [**Developer Support**](https://github.com/atrac17/MiSTer_Integer_Modelines/tree/main#support)
+1. [**Basic Information**](https://github.com/OngoGablogian/Integer_Video_Modes/tree/main#basic-information)
+2. [**Using Non-Standard Video Modes To Produce Hybrid Scaling**](https://github.com/OngoGablogian/Integer_Video_Modes/tree/main#using-non-standard-video-modes-to-produce-hybrid-scaling)
+3. [**MiSTer Provided Scaling Methods**](https://github.com/OngoGablogian/Integer_Video_Modes/tree/main#mister-provided-scaling-methods)
+4. [**MiSTer.ini Information Related To This Repository**](https://github.com/OngoGablogian/Integer_Video_Modes/tree/main#misterini-information-related-to-this-repository)
+5. [**MiSTer.ini Recommended Settings**](https://github.com/OngoGablogian/Integer_Video_Modes/tree/main#misterini-recommended-settings)
+6. [**OSSC DEXX-Pro Lite Add-On Provided Scaling Methods**](https://github.com/OngoGablogian/Integer_Video_Modes/tree/main#ossc-dexx-pro-lite-add-on-provided-scaling-methods)
+7. [**OSSC DEXX-Pro Lite Add-On Custom_Scaling.txt Information**](https://github.com/OngoGablogian/Integer_Video_Modes/tree/main#ossc-dexx-pro-lite-add-on-custom_scalingtxt-information)
+8. [**Integer Video Mode Calculation Examples**](https://github.com/OngoGablogian/Integer_Video_Modes/tree/main#integer-video-mode-calculation-examples)
+9. [**Tools Utilized To Create Integer Video Modes**](https://github.com/OngoGablogian/Integer_Video_Modes/tree/main#tools-utilized-to-create-integer-video-modes)
+10. [**Tools Utilized To Create New EDID Resolutions**](https://github.com/OngoGablogian/Integer_Video_Modes/tree/main#tools-utilized-to-create-new-edid-resolutions)
+11. [**Console / Handheld Video Modes & Timings**](https://github.com/OngoGablogian/Integer_Video_Modes/blob/main/console/README.md)
+12. [**Arcade Video Modes & Timings**](https://github.com/OngoGablogian/Integer_Video_Modes/blob/main/arcade/README.md)
+13. [**Video Modes & Timings Templates**](https://github.com/OngoGablogian/Integer_Video_Modes/tree/main/template)
+14. [**Repository License**](https://github.com/OngoGablogian/Integer_Video_Modes/tree/main#license)
+15. [**Developer Support**](https://github.com/OngoGablogian/Integer_Video_Modes/tree/main#support)
 
 <br>
 
@@ -169,15 +169,15 @@ vsync_adjust=2
 
 #
 
-# <p align=center>[Console / Handheld Video Modes & Timings](https://github.com/atrac17/MiSTer_Integer_Modelines/blob/main/console/)<br>For MiSTer cores & the  DEXX-Pro Lite Add-On</p>
+# <p align=center>[Console / Handheld Video Modes & Timings](https://github.com/OngoGablogian/Integer_Video_Modes/blob/main/console/)<br>For MiSTer cores & the  DEXX-Pro Lite Add-On</p>
 
 #
 
-# <p align=center>[Arcade Video Modes & Timings](https://github.com/atrac17/MiSTer_Integer_Modelines/blob/main/arcade/)<br>For MiSTer cores & the  DEXX-Pro Lite Add-On</p>
+# <p align=center>[Arcade Video Modes & Timings](https://github.com/OngoGablogian/Integer_Video_Modes/blob/main/arcade/)<br>For MiSTer cores & the  DEXX-Pro Lite Add-On</p>
 
 #
 
-# <p align=center>[Video Modes & Timings Templates](https://github.com/atrac17/MiSTer_Integer_Modelines/blob/main/template/)<br>For MiSTer cores & the  DEXX-Pro Lite Add-On</p>
+# <p align=center>[Video Modes & Timings Templates](https://github.com/OngoGablogian/Integer_Video_Modes/blob/main/template/)<br>For MiSTer cores & the  DEXX-Pro Lite Add-On</p>
 
 # License
 
